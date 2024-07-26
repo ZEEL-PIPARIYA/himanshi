@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/musicplayer/ExampleInstrumentedTest.java;D:/Android/MusicPlayer/app/src/main/java/com/example/musicplayer/MainActivity.java;D:/Android/MusicPlayer/app/src/main/res/drawable/ic_launcher_background.xml;D:/Android/MusicPlayer/app/src/main/res/drawable/ic_launcher_foreground.xml;D:/Android/MusicPlayer/app/src/main/res/layout/activity_main.xml;D:/Android/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml;D:/Android/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml;D:/Android/MusicPlayer/app/src/main/res/values/colors.xml;D:/Android/MusicPlayer/app/src/main/res/values/strings.xml;D:/Android/MusicPlayer/app/src/main/res/values/themes.xml;D:/Android/MusicPlayer/app/src/main/res/values-night/themes.xml;D:/Android/MusicPlayer/app/src/main/res/xml/backup_rules.xml;D:/Android/MusicPlayer/app/src/main/res/xml/data_extraction_rules.xml;D:/Android/MusicPlayer/app/src/main/AndroidManifest.xml;D:/Android/MusicPlayer/app/src/test/java/com/example/musicplayer/ExampleUnitTest.java;D:/Android/MusicPlayer/app/build.gradle.kts;D:/Android/MusicPlayer/build.gradle.kts;D:/Android/MusicPlayer/settings.gradle.kts" />
+  </component>
+</project>
